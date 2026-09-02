@@ -1,3 +1,3 @@
 # SkyMart
 Frontend Ecommerce Application
-AT SCS
+AT Sheriyans Coding School
